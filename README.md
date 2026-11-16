@@ -1,19 +1,15 @@
-<p>
-  <samp>
-    Idk who tf I am, but I’m hooked on this green GitHub contribution graph. Dang it.
-  </samp>
+<p align="center">
+  <img src="./assets/flub.png" />
 </p>
 
-<p>
-  <samp>
-    - <a href="https://x.com/noonefr69">x</a><br />
-    - <a href="https://t.me/fixkasraam">telegram</a><br />
-    - <a href="https://noonefr.is-a.dev/">portfolio</a><br />
-  </samp>
+<p align="center">
+<samp>
+    |--------------|
+</samp>
 </p>
 
-<p>
+<p align="center">
   <samp>
-    peace
+    remember the first rule
   </samp>
 </p>
